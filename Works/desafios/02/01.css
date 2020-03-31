@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+header{
+    background-color:#2e334b;
+    font-size: xx-large;
+    font-family: 'Roboto' , sans-serif;
+    padding: 30px;
+}
+
+header div{
+    text-align: center;
+
+}
+header div a{
+    color:white;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px 30px;
+    text-decoration: none;
+}
+header div a:hover{
+    color:#51ff00;
+    transition: 300ms;
+}
